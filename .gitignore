@@ -2,3 +2,6 @@ LICENSE.txt
 Lib/
 Scripts/
 Include/
+mysite/mysite/__pycache__
+.vscode/
+mysite/db.sqlite3
